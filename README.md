@@ -41,18 +41,6 @@ I'm a **Programming** student at **SENAI**. I'm 17 years old and currently learn
   <a href="https://pt.wikipedia.org/wiki/PHP" target="_blank">
     <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   </a>
-  <a href="https://pt.wikipedia.org/wiki/CSS" target="_blank">
-    <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub Stats:
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Do-Valle&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Do-Valle&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
 
 ---
