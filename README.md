@@ -1,4 +1,5 @@
 # Hey there, Valle here! 👋
+![Visitors](https://komarev.com/ghpvc/?username=Vinicius-Do-Valle&style=flat-square&color=grey)
 
 ### 👨‍💻 About Me:
 I'm a **Programming** student at **SENAI**. I'm 17 years old and currently learning **Python**, **Lua**, **C++**, and now getting into **HTML** and **Backend** development. Always looking to improve and grow as a developer!
