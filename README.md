@@ -1,9 +1,17 @@
-# Oioi, Valle aqui! 👋
+# Hey there, Valle here! 👋
 
-### 👨‍💻 Sobre Mim:
-Sou estudante de **Programação** no **SENAI**. Tenho 17 anos e estou aprendendo as linguagens **Python**, **LUA**, **C++** e agora também estou começando a estudar **HTML**. Quero conhecer mais **Backend** e estou sempre querendo melhorar meus conhecimentos!
+### 👨‍💻 About Me:
+I'm a **Programming** student at **SENAI**. I'm 17 years old and currently learning **Python**, **Lua**, **C++**, and now getting into **HTML** and **Backend** development. Always looking to improve and grow as a developer!
 
-### 💻 Minhas Linguagens:
+- 🎓 Studying at **SENAI**
+- 🔧 Focused on **Backend & Systems**
+- 🌍 Discord Community Manager — **3M+ members**
+- 📰 Experience in **translation**, **journalism** & **project development**
+- 🚀 Always learning something new
+
+---
+
+### 💻 My Languages:
 
 <div style="display: inline-block; margin-right: 20px;">
   <a href="https://pt.wikipedia.org/wiki/C%2B%2B" target="_blank">
@@ -18,23 +26,53 @@ Sou estudante de **Programação** no **SENAI**. Tenho 17 anos e estou aprendend
   <a href="https://pt.wikipedia.org/wiki/HTML" target="_blank">
     <img align="center" alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </a>
+  <a href="https://pt.wikipedia.org/wiki/JavaScript" target="_blank">
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/TypeScript" target="_blank">
+    <img align="center" alt="typescript" src="https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/C_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
+    <img align="center" alt="c" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/Java_(linguagem_de_programa%C3%A7%C3%A3o)" target="_blank">
+    <img align="center" alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/PHP" target="_blank">
+    <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+  <a href="https://pt.wikipedia.org/wiki/CSS" target="_blank">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
 </div>
 
 ---
 
-### 🚀 Projetos em Destaque
+### 📊 GitHub Stats:
 
-- [SENAI](https://github.com/Valle-Vinicius/SENAI.git): Introdução aos projetos realizados pelo SENAI.
-- [SENAI - Atividades](https://github.com/Valle-Vinicius/ATIVIDADES): Exercícios realizados nas aulas ministradas pelo SENAI.
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Vinicius-Do-Valle&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-Do-Valle&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
 
 ---
 
-### 📊 Contribuições no GitHub:
+### 🚀 Featured Projects:
+- [**SENAI**](https://github.com/Valle-Vinicius/SENAI.git): Introduction to projects developed at SENAI.
+- [**SENAI - Activities**](https://github.com/Valle-Vinicius/ATIVIDADES): Exercises and assignments from SENAI classes.
+
+---
+
+### 🐍 Contribution Graph:
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valle-Vinicius/YValle-ViniciusE/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valle-Vinicius/Valle-Vinicius/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valle-Vinicius/Valle-Vinicius/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Valle-Vinicius/Valle-Vinicius/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
+
+<div align="center">
+  <i>Open to collaborations and interesting problems. Let's build something! 🤝</i>
+</div>
