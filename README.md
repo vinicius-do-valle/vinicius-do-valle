@@ -41,6 +41,37 @@ I'm a **Programming** student at **SENAI**. I'm 17 years old and currently learn
   <a href="https://pt.wikipedia.org/wiki/PHP" target="_blank">
     <img align="center" alt="php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   </a>
+  <a href="https://pt.wikipedia.org/wiki/CSS" target="_blank">
+    <img align="center" alt="css3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  </a>
+</div>
+
+---
+
+### 🛠 Tools & Platforms:
+
+<div style="display: inline-block; margin-right: 20px;">
+  <a href="https://www.figma.com" target="_blank">
+    <img align="center" alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so" target="_blank">
+    <img align="center" alt="notion" src="https://img.shields.io/badge/notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/SQL" target="_blank">
+    <img align="center" alt="sql" src="https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  </a>
+  <a href="https://git-scm.com" target="_blank">
+    <img align="center" alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img align="center" alt="discord" src="https://img.shields.io/badge/discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://code.visualstudio.com" target="_blank">
+    <img align="center" alt="vscode" src="https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  </a>
 </div>
 
 ---
